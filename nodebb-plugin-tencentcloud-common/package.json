@@ -1,0 +1,31 @@
+{
+  "name": "nodebb-plugin-tencentcloud-common",
+  "version": "1.0.0",
+  "description": "腾讯云插件中心插件",
+  "main": "library.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tencent-Cloud-Plugins/tencentcloud-plugin-nodebb-common"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "tencentcolud",
+    "common"
+  ],
+  "author": {
+    "name": "jackjundeng",
+    "email": "jackjundeng@tencent.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tencent-Cloud-Plugins/tencentcloud-plugin-nodebb-common/issues"
+  },
+  "readmeFilename": "README.md",
+  "nbbpm": {
+    "compatibility": "^1.16.2"
+  },
+  "dependencies": {
+    "axios": ">=0.21.1"
+  }
+}

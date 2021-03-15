@@ -1,0 +1,7 @@
+#Mr Developer
+.mr.developer.cfg
+
+sftp-config.json
+node_modules/
+package-lock.json
+yarn.lock
