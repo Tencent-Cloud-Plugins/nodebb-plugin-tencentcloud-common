@@ -9,7 +9,7 @@
 | ----     | ---------------- |
 | 中文名称   | 腾讯云插件中心插件 |
 | 英文名称   | nodebb-plugin-tencentcloud-common |
-| 最新版本   | v1.0.0 (2021.03.16) |
+| 最新版本   | v1.0.1 (2021.03.16) |
 | 适用平台   | [NodeBB](https://nodebb.org) |
 | GitHub项目| [tencentcloud-nodebb-plugin-common](https://github.com/Tencent-Cloud-Plugins/tencentcloud-nodebb-plugin-common) |
 | gitee项目| [tencentcloud-nodebb-plugin-common](https://gitee.com/Tencent-Cloud-Plugins/tencentcloud-nodebb-plugin-common) |
@@ -65,7 +65,7 @@ NodeBB腾讯云插件中心插件是集合所有腾讯云插件的公共管理�
 
 ## 7.版本迭代记录
 
-### 7.1 nodebb-plugin-tencentcloud-common v1.0.0
+### 7.1 nodebb-plugin-tencentcloud-common v1.0.1
 - 集中显示管理NodeBB腾讯云插件
 - 配置全局腾讯云密钥信息
 
